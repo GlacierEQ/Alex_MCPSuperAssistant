@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "MCP SuperAssistant",
+    "description": "The name of the extension"
+  },
+  "appDescription": {
+    "message": "MCP SuperAssistant",
+    "description": "The description of the extension"
+  }
+} 
