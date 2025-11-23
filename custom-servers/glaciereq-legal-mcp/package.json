@@ -1,0 +1,16 @@
+{
+  "name": "glaciereq-legal-mcp",
+  "version": "1.0.0",
+  "description": "GlacierEQ Legal Automation MCP Server for Case 1FDV-23-0001009",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "latest",
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1"
+  },
+  "author": "Casey del Carpio Barton",
+  "license": "MIT"
+}
